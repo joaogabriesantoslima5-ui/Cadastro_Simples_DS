@@ -19,3 +19,6 @@ while True:
         print("================")
         print("===tela de login===")
         print("==============")
+
+    else:
+        break
