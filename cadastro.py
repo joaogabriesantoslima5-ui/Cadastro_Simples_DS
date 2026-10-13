@@ -15,3 +15,7 @@ while True:
     if(opcao == 1) :
         print("=====teela de cadastro=====")
         print("=========================")
+    elif (opcao == 2 ):
+        print("================")
+        print("===tela de login===")
+        print("==============")
