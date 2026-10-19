@@ -1,2 +1,2 @@
 # Cadastro_Simples_DS
-while true
+while tru

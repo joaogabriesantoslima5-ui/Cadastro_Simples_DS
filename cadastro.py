@@ -21,4 +21,5 @@ while True:
         print("==============")
 
     else:
+        print("você está saindo do cadastro, até mais!")
         break
