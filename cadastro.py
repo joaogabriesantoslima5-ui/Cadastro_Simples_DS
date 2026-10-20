@@ -21,7 +21,7 @@ while True:
         print("===tela de login===")
         print("==============")
         #se digitar 3. sai da execucao
-    elif(opcao == "3""):
+    elif(opcao == "3"):
         print("você está saindo do cadastro, até mais!")
         break   
         # se nao for nem1,2 ou 3, mostrar erro e repetir o codigo
