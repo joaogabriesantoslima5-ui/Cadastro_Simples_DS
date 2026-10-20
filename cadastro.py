@@ -8,7 +8,7 @@ while True:
     print("2 - fazer login")
     print("3 - sair")
 
-    opcao = input(input("escolha uma opção:"))
+    opcao = input("escolha uma opção:"))
 #funcionalidades
     #se o usuario digitar o valor 1, vai ser exebido
     # a ação abaixo:
